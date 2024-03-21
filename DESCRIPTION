@@ -1,7 +1,8 @@
 Package: monitOS
 Title: Monitoring Overall Survival in Pivotal Trials in Indolent
         Cancers
-Version: 0.1.4
+URL: https://opensource.nibr.com/monitOS/
+Version: 0.1.5
 Authors@R: c(
     person("Thomas", "Fleming", email = "fleming@seattlebiostat.com", role ="ctb"),
     person("Lisa", "Hampson", email = "lisa.hampson@novartis.com", role ="aut"),
@@ -24,7 +25,7 @@ Imports: stats, glue, shiny, shinydashboard,
 Suggests: testthat (>= 3.0.0), covr, knitr, rmarkdown, pkgdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2024-03-05 15:49:57 UTC; kruscpe1
+Packaged: 2024-03-21 19:07:41 UTC; corolth1
 Author: Thomas Fleming [ctb],
   Lisa Hampson [aut],
   Bharani Bharani-Dharan [ctb],
@@ -37,4 +38,4 @@ Author: Thomas Fleming [ctb],
   Emmanuel Zuber [ctb],
   Novartis Pharma AG [cph]
 Repository: CRAN
-Date/Publication: 2024-03-05 16:10:02 UTC
+Date/Publication: 2024-03-21 19:20:02 UTC
